@@ -1,0 +1,31 @@
+#CLASS {WORLDS} OPEN
+
+#VARIABLE {worldlist}
+{
+    {leulive} 
+    {
+        {ALIAS} {leul}
+        {CHARACTER} {}
+        {FILE} {./leu/main.tin}
+        {HOST} {new-leu.leu.it}
+        {INPUT} {}
+        {NAME} {leulive}
+        {PASSWORD} {}
+        {PORT} {6000}
+        {SSL} {off}
+    }
+    {leutest} 
+    {
+        {ALIAS} {leut}
+        {CHARACTER} {}
+        {FILE} {./leu/main.tin}
+        {HOST} {new-leu.leu.it}
+        {INPUT} {}
+        {NAME} {leutest}
+        {PASSWORD} {}
+        {PORT} {7000}
+        {SSL} {off}
+    }
+}
+
+#CLASS {WORLDS} CLOSE
