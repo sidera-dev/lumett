@@ -22,7 +22,9 @@ Su LINUX/IOS/ANDROID
   - installare tintin++ https://tintin.mudhalla.net/install.php
   - posizionare i file scaricati dove fa comodo
   - accedere alla directory Lumett
-  - digitare il comando sh lumett.sh o lumettmulti.sh
+  - digitare il comando sh lumett-desktop.sh nel terminale per ambiente desktop
+    oppure aprire cliccando il link
+  - digitare il comando sh lumett-mobile.sh nel terminale per ambiente mobile
   - sh linux o wls/msys disponibile la modalità detached.
   - selezionare o creare il mud nel wizard.
 
@@ -37,6 +39,9 @@ Su WINDOWS
 
 La versione multifinestra e' disponibile solo su per
 sistemi linux o attraverso msys2 o wls2.
+
+---------------Release vers 1.9--------------------------------
+Passaggio di mintty a wezterm
 
 ---------------Release vers 1.8--------------------------------
 Supporto per il mud Lumen et Umbra live e test.
